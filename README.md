@@ -10,7 +10,7 @@
 ### Распознавание объектов (CIFAR10)
 https://colab.research.google.com/drive/1NlFTrfxd5sXsIRdJow3jAXfDqGHyLZfZ?usp=sharing
 ### Сегментация
-https://colab.research.google.com/drive/1pP6QXUg25jc_ET2o3-98wTQ5EISqTYhz?usp=sharing
+https://colab.research.google.com/drive/1pP6QXUg25jc_ET2o3-98wTQ5EISqTYhz?usp=sharing  <br>
 https://colab.research.google.com/drive/1wSEd-UKPD0hdGWKTy6GJ6tnayV9vhjJK?usp=sharing
 ### Детектирование объектов
 https://colab.research.google.com/drive/1Ts9dft5F6gw_skMOJ_q6f62UNH4FIhIz?usp=sharing
