@@ -3,9 +3,11 @@
 
 ## Classic Machine Learning
 ### Предсказание цен на недвижимость
-В репозитории, по пути: Classic Machine Learning/Предсказание цен на недвижимость.ipynb
+В репозитории, по пути: "Classic Machine Learning/Предсказание цен на недвижимость.ipynb"
 ### Прогнозирование невыполнения долговых обязательств по кредиту
-В репозитории, по пути: Classic Machine Learning/Невыполнение долговых обязательств.ipynb
+В репозитории, по пути: "Classic Machine Learning/Невыполнение долговых обязательств.ipynb"
+### RestAPI на Flask
+В репозитории, по пути: "Classic Machine Learning/RestAPI на Flask/", как пользоваться - см. файл "README.txt"
 
 ## Neural Network
 ### Временые ряды (LSTM)
