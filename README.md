@@ -18,6 +18,8 @@ https://colab.research.google.com/drive/1nfKLkqjN8jbXFUnprmnxVfxsBxPl4kKH?usp=sh
 ## Computer Vision
 ### Распознавание объектов (CIFAR10)
 https://colab.research.google.com/drive/1NlFTrfxd5sXsIRdJow3jAXfDqGHyLZfZ?usp=sharing
+### Класификация изображений (CNN)
+https://colab.research.google.com/drive/1sfyRtOIhFSHmYrRXRGuMe8q5K_3MDdr2?usp=sharing
 ### Сегментация
 https://colab.research.google.com/drive/1pP6QXUg25jc_ET2o3-98wTQ5EISqTYhz?usp=sharing  <br>
 https://colab.research.google.com/drive/1wSEd-UKPD0hdGWKTy6GJ6tnayV9vhjJK?usp=sharing
